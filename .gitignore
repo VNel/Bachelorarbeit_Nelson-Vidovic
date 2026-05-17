@@ -47,3 +47,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Datensätze ausschliessen
+Daten/
+data/
+*.Rda
+*.rda
+*.RData
+*.rds
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
